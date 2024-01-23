@@ -1,0 +1,192 @@
+* {
+
+    margin: 0 ;
+    padding: 0;
+
+}
+
+.main{
+    background-image: url(img.jpg);
+    background-size: 100% 100%;
+    width:100%;
+    height:400px;
+    align-content: center;
+    
+}
+.menu{
+    width: 100%;
+    background-color: orangered;
+    height: 50px;
+    display: flex;
+  
+    justify-content: space-around;
+    align-items:center;
+}
+.logo{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.navbar a{
+    color: black;
+    font-weight: 600px;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0 20px;
+    
+
+}
+
+.box{
+    width:100%;
+    height:240px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width:17%;
+    height:100%;
+    border: 2px solid black;
+    background-color: black;
+}
+.text{
+    color: white;
+    align-items: center;
+    text-transform: uppercase;
+    font-size:20px;
+    text-justify: 2px;
+    padding-top: 25%;
+    padding-left: 20%;
+    font-weight: bold;
+}
+.num{
+    color: white;
+    font-size: 30px;
+    font-weight:bold;
+    padding: 5px 20px;
+}
+.img{
+margin :90px 150px;
+width: 25%;
+height: 60%;
+justify-content:space-evenly;
+}
+.button{
+    width: 130px;
+    height:30px;
+    border:2px solid white;
+    border-radius: 7px;
+    margin:50px 30px;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.button h5{
+    align-items: center;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    padding: 0px;
+}
+.tt{
+    margin:15px 30px;
+}
+.img h1{
+    margin:0 20px;
+}
+.middle{
+    width:100%;
+    height: 480px;
+}
+.text4{
+    width: 100%;
+    height: 27%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.mid1{
+    float: left;
+    margin:30px 200px;
+    width: 300px;
+    align-items: center;
+
+}
+.upper{
+   
+    width:800px;
+    height:70px;
+    margin : 30px 0;
+}
+.text h4,h5,h2{
+    margin:10px 20px;
+}
+.afsar{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    justify-content: space-evenly;
+    margin-top: 15px;
+ }
+ .afsar1{
+    width:17%;
+    height: 100%;
+    
+ }
+ .foot{
+    width: 100%;
+    height:400px;
+    background-image: url(img2.jpg);
+    background-size: 100% 100%;
+    margin-top: 20px;
+
+ }
+ .foott{
+    width:25%;
+    height: 40%;
+    margin-left:70%;
+    padding-top: 90px;
+    color: white;
+    text-align: end;
+    font-size: 20px;
+ }
+ 
+
+.foot-button{
+   width: 150px;
+   height:25px;
+   border:2px solid gray;
+   margin:75px 80%;
+   align-items: center;
+   border-radius: 7px;
+   text-align: center;
+   }
+   
+
+.foot-button h5{
+   align-items: center;
+   text-transform:capitalize;
+   color:white;
+   text-align: center;
+   padding-bottom: 20px;
+
+}
+.Afsar{
+    
+    width: 100%;
+    height: 20px;
+}
+.Afsar h4{
+    color:red;
+    font-weight: 400;
+    
+}
+.akshay{
+    width:15%;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin:3% 80%;
+}
